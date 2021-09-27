@@ -34,11 +34,13 @@
   color: #61dafb;
 }
 
-/* .file {
-  opacity: 0;
-  width: 0.1px;
-  height: 0.1px;
-  position: absolute;
+/* .file{
+  width: 100px;
+  height: 50px; */
+  /* position: absolute; */
+  /* background: skyblue; */
+  /* border: none;
+  border-radius: 10px;
 } */
 
 .file-input label {
